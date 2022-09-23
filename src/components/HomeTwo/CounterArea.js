@@ -1,8 +1,8 @@
 import React from 'react';
-import counterIconOne from '../../assets/images/icon/counter-icon-1.svg';
-import counterIconTwo from '../../assets/images/icon/counter-icon-2.svg';
-import counterIconThree from '../../assets/images/icon/counter-icon-3.svg';
-import counterIconFour from '../../assets/images/icon/counter-icon-4.svg';
+// import { default as counterIconOne, default as counterIconThree } from '../../assets/images/icon/counter-icon-1.svg';
+import { default as counterIconFour, default as counterIconThree } from '../../assets/images/me/sat-4.png';
+import counterIconOne from '../../assets/images/me/sat-5.gif';
+import counterIconTwo from '../../assets/images/me/sat-6.png';
 import CounterUpCom from '../../lib/CounterUpCom';
 
 function CounterArea({ style }) {
@@ -15,7 +15,7 @@ function CounterArea({ style }) {
                             <div className="appie-section-title">
                                 <h3 className="appie-title">How does it work</h3>
                                 <p>
-                                    The full monty spiffing good time no biggie cack grub fantastic.
+                                Imagine Knowing with Certainty That You're Ready To Get Into Your Dream School.
                                 </p>
                             </div>
                         </div>
@@ -33,11 +33,11 @@ function CounterArea({ style }) {
                                     </div>
                                     <h3 className="title">
                                         <span className="counter-item">
-                                            <CounterUpCom endValue={100} sectionSelect="counter" />
+                                            <CounterUpCom endValue={250} sectionSelect="counter" />
                                         </span>
                                         k+
                                     </h3>
-                                    <p>Active Installation</p>
+                                    <p>SAT Questions </p>
                                 </div>
                             </div>
                         </div>
@@ -53,11 +53,12 @@ function CounterArea({ style }) {
                                     </div>
                                     <h3 className="title">
                                         <span className="counter-item">
-                                            <CounterUpCom endValue={108} sectionSelect="counter" />
+                                            <CounterUpCom endValue={30} sectionSelect="counter" />
                                         </span>
-                                        +
+                                        k+
                                     </h3>
-                                    <p>Active Installation</p>
+                                    <p>Students</p>
+                                    <p>Practice questions</p>
                                 </div>
                             </div>
                         </div>
@@ -77,7 +78,8 @@ function CounterArea({ style }) {
                                         </span>
                                         +
                                     </h3>
-                                    <p>Active Installation</p>
+                                    <p>SATSuccess Club </p>
+                                    <p>Budget friendly subscription to get more for less. </p>
                                 </div>
                             </div>
                         </div>
@@ -93,11 +95,11 @@ function CounterArea({ style }) {
                                     </div>
                                     <h3 className="title">
                                         <span className="counter-item">
-                                            <CounterUpCom endValue={725} sectionSelect="counter" />
+                                            <CounterUpCom endValue={100} sectionSelect="counter" />
                                         </span>
-                                        k+
+                                        %
                                     </h3>
-                                    <p>Active Installation</p>
+                                    <p>Money Back Guarantee</p>
                                 </div>
                             </div>
                         </div>

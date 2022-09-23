@@ -13,9 +13,9 @@ function PricingHomeTwo() {
                     <div className="row">
                         <div className="col-lg-12">
                             <div className="appie-section-title text-center">
-                                <h3 className="appie-title">Simple pricing for Everyone</h3>
+                                <h3 className="appie-title">Simple, affordable and multi-currency pricing for all in Africa</h3>
                                 <p>
-                                    The full monty spiffing good time no biggie cack grub fantastic.
+                                No Hidden Fees. One Time Payment.
                                 </p>
                                 <div className="appie-pricing-tab-btn">
                                     <ul
@@ -33,7 +33,7 @@ function PricingHomeTwo() {
                                                 type="button"
                                                 role="tab"
                                             >
-                                                Monthly
+                                                Annually
                                             </a>
                                         </li>
                                         <li
@@ -49,7 +49,7 @@ function PricingHomeTwo() {
                                                 type="button"
                                                 role="tab"
                                             >
-                                                Yearly
+                                                {/* Yearly */}
                                             </a>
                                         </li>
                                     </ul>
@@ -77,27 +77,30 @@ function PricingHomeTwo() {
                       "
                                             >
                                                 <div className="pricig-heading">
-                                                    <h6>Fresh</h6>
+                                                    <h6>SATSUCCESS
+Club
+</h6>
                                                     <div className="price-range">
-                                                        <sup>$</sup> <span>04</span>
-                                                        <p>/month</p>
+                                                        <sup>$</sup> <span>100</span>
+                                                        {/* <p>/month</p> */}
                                                     </div>
-                                                    <p>Get your 14 day free trial</p>
+                                                    {/* <p>Get your 14 day free trial</p> */}
                                                 </div>
                                                 <div className="pricig-body">
                                                     <ul>
                                                         <li>
-                                                            <i className="fal fa-check" /> 60-day
-                                                            chat history
+                                                            <i className="fal fa-check" /> Annual Subscription
                                                         </li>
                                                         <li>
-                                                            <i className="fal fa-check" /> 15 GB
-                                                            cloud storage
+                                                            <i className="fal fa-check" />Automatic access to deals
                                                         </li>
                                                         <li>
-                                                            <i className="fal fa-check" /> 24/7
-                                                            Support
+                                                            <i className="fal fa-check" /> Locked done bonuses during Subscription
                                                         </li>
+                                                        <li><i className="fal fa-check" />Average improvement: 200 points</li>
+                                                        <li><i className="fal fa-check" />Prep in 10-minutes a day</li>
+                                                        <li>  <i className="fal fa-check" />It's 100% Risk Free With a 30 Day Money Back Guarantee
+</li>
                                                     </ul>
                                                     <div className="pricing-btn mt-35">
                                                         <a className="main-btn" href="#">
@@ -107,7 +110,7 @@ function PricingHomeTwo() {
                                                 </div>
                                             </div>
                                         </div>
-                                        <div className="col-lg-4 col-md-6">
+                                        {/* <div className="col-lg-4 col-md-6">
                                             <div
                                                 className="
                         pricing-one__single pricing-one__single_2
@@ -118,26 +121,25 @@ function PricingHomeTwo() {
                       "
                                             >
                                                 <div className="pricig-heading">
-                                                    <h6>Sweet</h6>
+                                                    <h6>SATSuccess
+Incredible Deal
+</h6>
                                                     <div className="price-range">
-                                                        <sup>$</sup> <span>16</span>
-                                                        <p>/month</p>
+                                                        <sup>$</sup> <span>?</span>
+                                                        {/* <p>/month</p>
                                                     </div>
                                                     <p>Billed $276 per website annually.</p>
                                                 </div>
                                                 <div className="pricig-body">
                                                     <ul>
                                                         <li>
-                                                            <i className="fal fa-check" /> 60-day
-                                                            chat history
+                                                            <i className="fal fa-check" />Offer valid why deal/promo last
                                                         </li>
                                                         <li>
-                                                            <i className="fal fa-check" /> 50 GB
-                                                            cloud storage
+                                                            <i className="fal fa-check" /> Price varies but always lower than regular
                                                         </li>
                                                         <li>
-                                                            <i className="fal fa-check" /> 24/7
-                                                            Support
+                                                            <i className="fal fa-check" /> 12 Months of Unlimited Access.
                                                         </li>
                                                     </ul>
                                                     <div className="pricing-btn mt-35">
@@ -150,7 +152,7 @@ function PricingHomeTwo() {
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> */}
                                         <div className="col-lg-4 col-md-6">
                                             <div
                                                 className="
@@ -162,31 +164,28 @@ function PricingHomeTwo() {
                       "
                                             >
                                                 <div className="pricig-heading">
-                                                    <h6>Juicy</h6>
+                                                    <h6>SAT Success Premium</h6>
                                                     <div className="price-range">
-                                                        <sup>$</sup> <span>27</span>
+                                                        <sup>$</sup> <span>10</span>
                                                         <p>/month</p>
                                                     </div>
-                                                    <p>Billed $276 per website annually.</p>
+                                                    {/* <p>Billed $276 per website annually.</p> */}
                                                 </div>
                                                 <div className="pricig-body">
                                                     <ul>
                                                         <li>
-                                                            <i className="fal fa-check" /> 60-day
-                                                            chat history
+                                                            <i className="fal fa-check" />Monthly Subscription
                                                         </li>
                                                         <li>
-                                                            <i className="fal fa-check" /> Data
-                                                            security
+                                                            <i className="fal fa-check" /> Recurring monthly payment, no extra fees
                                                         </li>
                                                         <li>
-                                                            <i className="fal fa-check" /> 100 GB
-                                                            cloud storage
+                                                            <i className="fal fa-check" />Pay As Your go basis
                                                         </li>
                                                         <li>
-                                                            <i className="fal fa-check" /> 24/7
-                                                            Support
+                                                            <i className="fal fa-check" />Average improvement: 200 points
                                                         </li>
+                                                        <li><i className="fal fa-check" />Prep in 10-minutes a day  </li>
                                                     </ul>
                                                     <div className="pricing-btn mt-35">
                                                         <a className="main-btn" href="#">

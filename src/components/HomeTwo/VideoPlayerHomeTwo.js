@@ -2,9 +2,8 @@ import React, { useRef, useState } from 'react';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick-theme.css';
 import 'slick-carousel/slick/slick.css';
-import videoSlideOne from '../../assets/images/video-slide-1.jpg';
-import videoSlideTwo from '../../assets/images/video-slide-2.jpg';
-import videoThumb from '../../assets/images/video-thumb-1.jpg';
+import { default as videoSlideOne, default as videoSlideTwo } from '../../assets/images/me/sat-5.gif';
+import videoThumb from '../../assets/images/me/sat-7.png';
 import PopupVideo from '../PopupVideo';
 
 function VideoPlayerHomeTwo({ className }) {
@@ -53,7 +52,7 @@ function VideoPlayerHomeTwo({ className }) {
                                 </div>
                                 <div className="content">
                                     <h3 className="title">
-                                        Watch the two-minute video to learn how.
+                                    Watch This Video to See the Magic of SATSuccess powered by Everydae in Action
                                     </h3>
                                     <p>
                                         The wireless cheesed on your bike mate zonked a load of old

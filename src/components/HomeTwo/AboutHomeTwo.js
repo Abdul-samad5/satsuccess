@@ -1,5 +1,5 @@
 import React from 'react';
-import aboutThumb from '../../assets/images/about-thumb.png';
+import aboutThumb from '../../assets/images/me/sat-2.png';
 
 function AboutHomeTwo() {
     return (
@@ -29,16 +29,16 @@ function AboutHomeTwo() {
                                             SATSuccess system was created by graduates of Harvard and MIIT.
                                             </p>
                                         </div>
-                                        {/* <div className="row">
+                                        <div className="row">
                                             <div className="col-md-6">
                                                 <div className="appie-about-service mt-30">
                                                     <div className="icon">
                                                         <i className="fal fa-check" />
                                                     </div>
-                                                    <h4 className="title">Carefully designed</h4>
-                                                    <p>
+                                                    <h4 className="title">over 3,000 students are ditching other offerings for engaging, bite-size online SAT prep that gets results.</h4>
+                                                    {/* <p>
                                                         Mucker plastered bugger all mate morish are.
-                                                    </p>
+                                                    </p> */}
                                                 </div>
                                             </div>
                                             <div className="col-md-6">
@@ -46,13 +46,35 @@ function AboutHomeTwo() {
                                                     <div className="icon">
                                                         <i className="fal fa-check" />
                                                     </div>
-                                                    <h4 className="title">Choose a App</h4>
-                                                    <p>
+                                                    <h4 className="title">To build a motivational online SAT prep solution so that you can get best-in-class test prep expertise, without draining your bank account.</h4>
+                                                    {/* <p>
                                                         Mucker plastered bugger all mate morish are.
-                                                    </p>
+                                                    </p> */}
                                                 </div>
                                             </div>
-                                        </div>*/}
+                                            <div className="col-md-6">
+                                                <div className="appie-about-service mt-30">
+                                                    <div className="icon">
+                                                        <i className="fal fa-check" />
+                                                    </div>
+                                                    <h4 className="title">An to deepen this access globally and locally including Africa.</h4>
+                                                    {/* <p>
+                                                        Mucker plastered bugger all mate morish are.
+                                                    </p> */}
+                                                </div>
+                                            </div>
+                                            <div className="col-md-6">
+                                                <div className="appie-about-service mt-30">
+                                                    <div className="icon">
+                                                        <i className="fal fa-check" />
+                                                    </div>
+                                                    <h4 className="title">The Mutual mission of the partners; Everyday and Examian is for you to say Goodbye to stressful Sat prep.</h4>
+                                                    {/* <p>
+                                                        Mucker plastered bugger all mate morish are.
+                                                    </p> */}
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div> 
                                 </div>
                             </div>

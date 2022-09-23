@@ -1,4 +1,5 @@
 import React from 'react';
+import heroThumb from '../../assets/images/me/sat.png';
 import shapeTen from '../../assets/images/shape/shape-10.png';
 import shapeEleven from '../../assets/images/shape/shape-11.png';
 import shapeTwelve from '../../assets/images/shape/shape-12.png';
@@ -53,7 +54,7 @@ Ace your score and hug your success.
                     data-wow-duration="2000ms"
                     data-wow-delay="400ms"
                 >
-                    {/* <img src={heroThumb} alt="" /> */}
+                    <img src={heroThumb} alt="" />
                 </div>
                 <div className="hero-shape-1">
                     <img src={shapeNine} alt="" />

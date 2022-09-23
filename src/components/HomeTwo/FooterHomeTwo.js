@@ -16,11 +16,12 @@ function FooterHomeTwo() {
                                     </a>
                                 </div>
                                 <p>
-                                    Appie WordPress is theme is the last theme you will ever have.
+                                Is an exclusive SAT flagship of Examian for candidates in Africa. <br/>
+                                It is a product of partnership with US based Award winning Edtech Company Everydae.
                                 </p>
-                                <a href="#">
+                                {/* <a href="#">
                                     Read More <i className="fal fa-arrow-right" />
-                                </a>
+                                </a> */}
                                 <div className="social mt-30">
                                     <ul>
                                         <li>
@@ -74,13 +75,13 @@ function FooterHomeTwo() {
                                 <h4 className="title">Support</h4>
                                 <ul>
                                     <li>
-                                        <Link to="/about-us">Community</Link>
+                                        <Link to="/about-us">FAQ</Link>
                                     </li>
                                     <li>
                                         <a href="#">Resources</a>
                                     </li>
                                     <li>
-                                        <a href="#">Faqs</a>
+                                        <a href="#">Club</a>
                                     </li>
                                     <li>
                                         <a href="#">Privacy Policy</a>
@@ -97,19 +98,20 @@ function FooterHomeTwo() {
                                 <ul>
                                     <li>
                                         <a href="#">
-                                            <i className="fal fa-envelope" /> support@appie.com
+                                            <i className="fal fa-envelope" /> sucess@examian.com
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i className="fal fa-phone" /> +(642) 342 762 44
+                                            <i className="fal fa-phone" /> +234 9037000088 
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i className="fal fa-map-marker-alt" /> 442 Belle Terre
-                                            St Floor 7, San Francisco, AV 4206
-                                        </a>
+                                            <i className="fal fa-map-marker-alt" />South Africa <br/>
+                                             DCI PTY 52 Sunset View Vorna Midrand, Gauteng 1686<br />
+                                             Nigeria <br/>
+                                             Examian Place 54A Adebajo Street Bodjia Ibadan Nigeria </a>
                                     </li>
                                 </ul>
                             </div>
@@ -129,20 +131,20 @@ function FooterHomeTwo() {
                                 <div className="apps-download-btn">
                                     <ul>
                                         <li>
-                                            <a href="#">
+                                            {/* <a href="#">
                                                 <i className="fab fa-apple" /> Download for iOS
-                                            </a>
+                                            </a> */}
                                         </li>
                                         <li>
-                                            <a className="item-2" href="#">
+                                            {/* <a className="item-2" href="#">
                                                 <i className="fab fa-google-play" /> Download for
                                                 Android
-                                            </a>
+                                            </a> */}
                                         </li>
                                     </ul>
                                 </div>
                                 <div className="copyright-text">
-                                    <p>Copyright © 2021 Appie. All rights reserved.</p>
+                                    <p>Copyright © 2021 Examian. All rights reserved.</p>
                                 </div>
                             </div>
                         </div>

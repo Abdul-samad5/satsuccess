@@ -4,7 +4,6 @@ import BackToTop from '../BackToTop';
 import Drawer from '../Mobile/Drawer';
 import AboutHomeTwo from './AboutHomeTwo';
 import CounterArea from './CounterArea';
-import DownloadHomeTwo from './DownloadHomeTwo';
 import FeaturesHomeTwo from './FeaturesHomeTwo';
 import FooterHomeTwo from './FooterHomeTwo';
 import HeaderHomeTwo from './HeaderHomeTwo';
@@ -27,7 +26,7 @@ function HomeTwo() {
             <FeaturesHomeTwo />
             <CounterArea />
             <VideoPlayerHomeTwo />
-            <DownloadHomeTwo />
+            {/* <DownloadHomeTwo /> */}
             <PricingHomeTwo />
             <TestimonialHomeTwo />
             <SponserHomeTwo />
